@@ -1,0 +1,273 @@
+body,
+html {
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.left {
+    flex: 1;
+    background-color: #727474;
+    box-shadow: 0 3px 6px #00000029;
+    padding: 20px;
+}
+
+.right {
+    flex: 2;
+    background-color: #727474;
+    box-shadow: 0 3px 6px #00000029;
+    padding: 20px;
+}
+
+.curriculo {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.contato {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.contato div {
+    margin-bottom: 10px;
+    color: #727474;
+}
+
+.linkedin {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.containerexper {
+    background-color: azure;
+    box-shadow: 0 3px 6px #00000029;
+    color: #727474;
+    padding: 20px;
+}
+
+.headerexper {
+    display: flex;
+    justify-content: left;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.experiencia1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 25px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.experiencia1 div {
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.experiencia2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 25px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.experiencia2 div {
+    margin-bottom: 10px;
+}
+
+.experiencia3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 5px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.experiencia3 div {
+    margin-bottom: 10px;
+}
+
+.experiencia4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 5px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.experiencia4 div {
+    margin-bottom: 10px;
+}
+
+.experiencia5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 5px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.experiencia5 div {
+    margin-bottom: 10px;
+}
+
+.containerforma {
+    background-color: azure;
+    box-shadow: 0 3px 6px #00000029;
+    color: #727474;
+    padding: 20px;
+    margin-top: 0px
+}
+
+.headerforma {
+    display: flex;
+    justify-content: left;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.formacao1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 25px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.formacao1 div {
+    margin-bottom: 10px;
+}
+
+.formacao2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 25px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.formacao2 div {
+    margin-bottom: 10px;
+}
+
+.formacao3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 5px;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.formacao3 div {
+    margin-bottom: 10px;
+}
+
+.containerlangue {
+    background-color: azure;
+    color: #727474;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.headerlangue {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.idiomas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.containerpubli {
+    background-color: azure;
+    color: #727474;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+    padding: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.containercompe {
+    background-color: azure;
+    color: #727474;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.headercompe {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+.competencias {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 10;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
